@@ -1,0 +1,49 @@
+{
+  "alunos": [
+    {
+      "id": 1,
+      "nome": "Ana Silva",
+      "turma": "6A",
+      "idade": 12
+    },
+    {
+      "id": 2,
+      "nome": "Pedro Souza",
+      "turma": "7B",
+      "idade": 13
+    }
+  ],
+  "livros": [
+    {
+      "id": 101,
+      "titulo": "O Pequeno Príncipe",
+      "autor": "Antoine de Saint-Exupéry",
+      "ano": 1943,
+      "disponivel": false
+    },
+    {
+      "id": 102,
+      "titulo": "Dom Casmurro",
+      "autor": "Machado de Assis",
+      "ano": 1899,
+      "disponivel": true
+    },
+    {
+      "titulo": "Os Sete Maridos de Evelyn Hugo",
+      "autor": "Bernadete",
+      "ano": 2021,
+      "disponivel": true,
+      "id": 1763421227223
+    }
+  ],
+  "emprestimos": [
+    {
+      "id": 1001,
+      "alunoId": 1,
+      "livroId": 101,
+      "dataEmprestimo": "2025-11-01T10:00:00.000Z",
+      "dataDevolucao": null,
+      "status": "emprestado"
+    }
+  ]
+}

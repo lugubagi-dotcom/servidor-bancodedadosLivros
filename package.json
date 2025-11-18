@@ -1,0 +1,26 @@
+{
+  "name": "aula-express",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node --watch ./src/server.js"
+  },
+  "keywords": [],
+  "author": "luis",
+  "license": "ISC",
+  "description": "��#\u0000 \u0000S\u0000e\u0000r\u0000v\u0000i\u0000d\u0000o\u0000r\u0000C\u0000o\u0000m\u0000E\u0000x\u0000p\u0000r\u0000e\u0000s\u0000s\u0000\r\u0000 \u0000",
+  "dependencies": {
+    "express": "^5.1.0",
+    "mongodb": "^7.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lugubagi-dotcom/ServidorComExpress.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lugubagi-dotcom/ServidorComExpress/issues"
+  },
+  "homepage": "https://github.com/lugubagi-dotcom/ServidorComExpress#readme"
+}
